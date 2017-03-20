@@ -1,0 +1,16 @@
+{
+  "name": "node-phone-area",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jackiemmmmm <jackie.tu@btcc.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "query-mobile-phone-area": "^1.0.6"
+  }
+}
